@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Javascript lessons"
+		},
+		{
+			"path": "..\\Eradiri - HNGstage2task"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Eradiri - HNGstage2task"
+	}
+}
